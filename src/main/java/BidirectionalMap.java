@@ -1,5 +1,4 @@
 import java.util.HashMap;
-import java.util.function.BiFunction;
 
 public class BidirectionalMap<V, K> extends HashMap<V, K> {
 
